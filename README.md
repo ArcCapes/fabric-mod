@@ -1,4 +1,5 @@
-# Fabric Example Mod
+# Arc for Fabric
+Arc mod for the Fabric Loader.
 
 ## Setup
 
